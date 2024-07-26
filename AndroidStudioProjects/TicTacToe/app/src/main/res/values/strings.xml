@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    // Resources for MainActivity Page (No comments??)
+    <string name="title">Tic-Tac-Toe!</string>
+    <string name="start_button">START!</string>
+
+    // Resources for PlayerSetup Page
+    <string name="player_setup_title">Enter Your Names</string>
+    <string name="play_button">PLAY!</string>
+    <string name="label_11">Player 1:</string>
+    <string name="label_12">Player 2:</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="title_activity_game_display">GameDisplay</string>
+
+    // Resources for GameDisplay Page
+    <string name="plaAgainBtn">PLAY AGAIN</string>
+    <string name="homeBtn">HOME</string>
+
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
